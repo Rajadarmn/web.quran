@@ -1,0 +1,11 @@
+.card-surat{
+    cursor: pointer;
+    transition: .5s;
+}
+.card-surat:hover{
+    background-color:#a1dbdf;
+}
+.navbar{
+    height: 5rem;
+}
+
